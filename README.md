@@ -2,6 +2,8 @@
 
 ### Built in Rust 
 
+https://github.com/user-attachments/assets/9b7dd07b-0801-4e38-9a3e-0c7605144f0e
+
 #### Description
 The rules for Conway's Game of Life are:
 Birth: A dead cell becomes alive if it has exactly three live neighbors
